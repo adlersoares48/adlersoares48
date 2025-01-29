@@ -53,11 +53,11 @@ Como objetivo de carreira, busco uma oportunidade onde possa aplicar minhas habi
 
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
