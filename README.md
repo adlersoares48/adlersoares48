@@ -86,7 +86,8 @@ Como objetivo de carreira, busco uma oportunidade onde possa aplicar minhas habi
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding: 5px;" 
+    style="padding: 5px;"
+    style="margin: 5px;"
     src="https://github-readme-stats.vercel.app/api?username=adlersoares48&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -94,6 +95,8 @@ Como objetivo de carreira, busco uma oportunidade onde possa aplicar minhas habi
       align="left" 
       alt="GitHub Stats" 
       height="200"
+      style="padding: 5px;"
+      style="margin: 5px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlersoares48&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
