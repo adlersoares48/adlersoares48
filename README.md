@@ -2,7 +2,8 @@
 
 **`Desenvolvedor de Software`**
 <br/>
-Me chamo Adler Soares de Souza, tenho 25 anos e sou de Contagem - Minas Gerais. Sou um estudante de Sistemas de Informação, com uma grande bagagem de cursos e conhecimentos acadêmicos na área da tecnologia. Junto com o meu amor pelo desenvolvimento de software vem o desejo de melhorar processos e atingir metas de maneira eficaz, e assim, desenvolver uma carreira sólida e progressiva contribuindo para construir uma equipe dinâmica e colaborativa. Estou sempre em busca de desafios e oportunidades de aprendizado contínuo a fim de adquirir e aprimorar novos conhecimentos.
+<br/>
+Me chamo Adler Soares de Souza, tenho 25 anos e sou de Contagem / Minas Gerais. Sou um estudante de Sistemas de Informação, com uma grande bagagem de cursos e conhecimentos acadêmicos na área da tecnologia. Junto com o meu amor pelo desenvolvimento de software vem o desejo de melhorar processos e atingir metas de maneira eficaz, e assim, desenvolver uma carreira sólida e progressiva contribuindo para construir uma equipe dinâmica e colaborativa. Estou sempre em busca de desafios e oportunidades de aprendizado contínuo a fim de adquirir e aprimorar novos conhecimentos.
 
 Como objetivo de carreira, busco uma oportunidade onde possa aplicar minhas habilidades em desenvolvimento de software para criar soluções eficientes, focadas em usabilidade, performance e inovação, contribuindo significativamente para o crescimento e sucesso da empresa.
 
